@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "shop_women_pages",
+  "info": {
+    "singularName": "shop-women-page",
+    "pluralName": "shop-women-pages",
+    "displayName": "ShopWomenPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner": {
+      "type": "component",
+      "repeatable": false,
+      "component": "banner.banner"
+    },
+    "services": {
+      "displayName": "services",
+      "type": "component",
+      "repeatable": false,
+      "component": "services.services"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_left_welcome_part_left_welcome_parts",
+  "info": {
+    "displayName": "welcome",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "phone": {
+      "type": "string"
+    },
+    "text_under_phone": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "right_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_header_headers",
+  "info": {
+    "displayName": "Header"
+  },
+  "options": {},
+  "attributes": {
+    "Logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Navigation": {
+      "displayName": "Navigation",
+      "type": "component",
+      "repeatable": true,
+      "component": "navigation.navigation"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_banner_homepage_banner_homepages",
+  "info": {
+    "displayName": "banner_homepage"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    }
+  }
+}

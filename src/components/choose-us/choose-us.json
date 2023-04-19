@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_choose_us_chooseuses",
+  "info": {
+    "displayName": "ChooseUs"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "choose_us_item": {
+      "displayName": "choose_us_item",
+      "type": "component",
+      "repeatable": true,
+      "component": "choose-us-item.choose-us-item"
+    }
+  }
+}

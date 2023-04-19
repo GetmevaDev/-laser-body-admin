@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_contact_us_contact_uses",
+  "info": {
+    "displayName": "contact-us",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "contact_us_tem": {
+      "displayName": "contact-us-item",
+      "type": "component",
+      "repeatable": true,
+      "component": "contact-us-item.contact-us-item"
+    },
+    "iframe": {
+      "type": "text"
+    },
+    "date_info": {
+      "displayName": "date_info",
+      "type": "component",
+      "repeatable": true,
+      "component": "date-info.date-info"
+    },
+    "button": {
+      "type": "string"
+    }
+  }
+}

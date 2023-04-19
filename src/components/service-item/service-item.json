@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_service_item_service_items",
+  "info": {
+    "displayName": "service_item"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

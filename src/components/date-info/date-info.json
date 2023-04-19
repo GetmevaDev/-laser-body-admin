@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_date_info_date_infos",
+  "info": {
+    "displayName": "date_info"
+  },
+  "options": {},
+  "attributes": {
+    "day": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    }
+  }
+}

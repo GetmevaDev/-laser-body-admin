@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_banner_about_banner_abouts",
+  "info": {
+    "displayName": "banner-about"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "button_left": {
+      "type": "string"
+    },
+    "button_right": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

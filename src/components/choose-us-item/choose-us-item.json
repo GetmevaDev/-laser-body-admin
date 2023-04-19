@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_choose_us_item_choose_us_items",
+  "info": {
+    "displayName": "choose_us_item"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "text": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

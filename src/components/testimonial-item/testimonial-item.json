@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_testimonial_item_testimonial_items",
+  "info": {
+    "displayName": "testimonial_item"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "string"
+    }
+  }
+}

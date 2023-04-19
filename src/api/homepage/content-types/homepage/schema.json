@@ -1,0 +1,56 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "homepage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner": {
+      "type": "component",
+      "repeatable": true,
+      "component": "banner-homepage.banner-homepage"
+    },
+    "welcome": {
+      "type": "component",
+      "repeatable": false,
+      "component": "welcome.left-welcome-part"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cards.cards"
+    },
+    "service": {
+      "type": "component",
+      "repeatable": false,
+      "component": "service.service"
+    },
+    "faq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "faq.faq"
+    },
+    "choose_us": {
+      "type": "component",
+      "repeatable": false,
+      "component": "choose-us.choose-us"
+    },
+    "testimonials": {
+      "type": "component",
+      "repeatable": false,
+      "component": "testimonials.testimonials"
+    },
+    "contact_us": {
+      "type": "component",
+      "repeatable": false,
+      "component": "contact-us.contact-us"
+    }
+  }
+}
